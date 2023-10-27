@@ -1,6 +1,6 @@
 # Tabuada 🧮
 
-Projeto criado para aprendizado e aprimoramento das minhas habilidades em manipulção com DOM 🚀
+Projeto criado para aprendizado e aprimoramento das minhas habilidades em manipulação com DOM 🚀
 
 ## 🛠️ Construído com
 
